@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-  "bin" : "./main.js",
+  "bin": "./main.js",
+  "repository": "git@github.com:MagLoft/codesnip.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
