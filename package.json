@@ -1,0 +1,19 @@
+{
+  "name": "codesnip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin" : "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atom-light-syntax": "git+https://git@github.com/atom/atom-light-syntax.git",
+    "highlights": "^3.0.1",
+    "juice": "^4.1.0",
+    "minimist": "^1.2.0",
+    "opn": "^5.1.0"
+  }
+}
